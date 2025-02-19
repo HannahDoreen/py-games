@@ -45,7 +45,6 @@ class player(object):
                 win.blit(walkLeft[0], (self.x, self.y))
                 
 
-
 class projectile(object):
     def __init__(self,x,y,radius,color,facing):
         self.x = x
