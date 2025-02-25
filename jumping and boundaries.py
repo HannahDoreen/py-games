@@ -7,7 +7,7 @@ pygame.display.set_caption("My_first pygame")
 
 x = 550
 y = 50
-vel = 6
+vel = 7
 width = 40
 length = 60
 
